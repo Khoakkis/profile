@@ -10,7 +10,7 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    background:linear-gradient(0, rgba(3, 2, 4, 0.7), rgba(4, 4, 7, 0.8)), url("/img/4l.jpg") no-repeat;
+    background:linear-gradient(0, rgba(3, 2, 4, 0.7), rgba(4, 4, 7, 0.8)), url("4l.jpg") no-repeat;
     background-size: cover;
     color: #333;
     overflow: hidden; /* Ngăn scroll trong khi preloader hiển thị */
